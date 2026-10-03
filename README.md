@@ -34,9 +34,3 @@ Exclusive E-commerce is a feature-rich online shopping platform developed with R
 | Cart & Wishlist | User-selected items management|
 | Auth (Login/Sign Up) | User accounts & authentication |
 | Profile & Contact | User information & dynamic contact forms |
-
-
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/Menna-Nabil/Exclusive-Ecommerce.git](https://github.com/Menna-Nabil/Exclusive-Ecommerce.git)
