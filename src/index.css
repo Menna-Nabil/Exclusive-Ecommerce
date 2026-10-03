@@ -1,0 +1,55 @@
+:root {
+  --primaryRed:#DB4444;
+  --hoverRed:#E07575;
+  --green : #00FF66;
+  --secondary1: #F5F5F5;
+  --secondary2: #FEFAF1;
+  --gray : #7D8184;
+  --black1:#363738;
+   --nav-height :70px
+}
+@media (max-width: 768px) {
+  :root {
+  --nav-height :60px
+  }
+}
+@media (max-width: 425px) {
+  :root {
+  --nav-height :70px
+  }
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+  background-color: #ffffff;
+  color: #333333;
+}
+html, body, #root {
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+.main-layout {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; 
+}
+.main-content {
+  flex: 1; 
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
