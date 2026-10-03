@@ -23,13 +23,3 @@ Exclusive E-commerce is a feature-rich online shopping platform developed with R
 * Routing: React Router
 * Communication: APIs (Fetch / Axios)
 
----
-
-##Project Pages & Flow
-
-| Page Name | Description|
-| Home| Landing page with featured products & banners |
-| Products / Details | Catalog view and specific item breakdowns|
-| Cart & Wishlist | User-selected items management|
-| Auth (Login/Sign Up) | User accounts & authentication |
-| Profile & Contact | User information & dynamic contact forms |
