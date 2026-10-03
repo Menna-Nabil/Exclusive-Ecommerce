@@ -28,7 +28,6 @@ Exclusive E-commerce is a feature-rich online shopping platform developed with R
 ##Project Pages & Flow
 
 | Page Name | Description|
-| :--- | :--- | :--- |
 | Home| Landing page with featured products & banners |
 | Products / Details | Catalog view and specific item breakdowns|
 | Cart & Wishlist | User-selected items management|
