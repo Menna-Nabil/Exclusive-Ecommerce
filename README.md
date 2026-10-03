@@ -1,16 +1,42 @@
-# React + Vite
+# Exclusive E-commerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##Overview
 
-Currently, two official plugins are available:
+Exclusive E-commerce is a feature-rich online shopping platform developed with React and styled using Tailwind CSS. It connects with APIs to handle user authentication, profile management, and contact submissions dynamically.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Authentication:Secure Sign Up, Login, and User Profile management backed by APIs.
+* Product Catalog: Dynamic product browsing with detailed product view pages.
+* Cart & Wishlist: Seamlessly manage items you want to buy or save for later.
+* pages Included: Home, Products, Product Details, Cart, Wishlist, Profile, About, and Contact.
+* Fully Responsive:Optimized layout for mobile phones, tablets, and desktop screens.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  Tech Stack
+
+* Frontend: React.js, JavaScript (ES6+)
+* Styling: Tailwind CSS , General CSS and Bootstrap
+* Routing: React Router
+* Communication: APIs (Fetch / Axios)
+
+---
+
+##Project Pages & Flow
+
+| Page Name | Description|
+| :--- | :--- | :--- |
+| Home| Landing page with featured products & banners |
+| Products / Details | Catalog view and specific item breakdowns|
+| Cart & Wishlist | User-selected items management|
+| Auth (Login/Sign Up) | User accounts & authentication |
+| Profile & Contact | User information & dynamic contact forms |
+
+
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Menna-Nabil/Exclusive-Ecommerce.git](https://github.com/Menna-Nabil/Exclusive-Ecommerce.git)
